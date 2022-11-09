@@ -1,2 +1,3 @@
 # pineapple-movies
-Project built while following VueJS &amp; Pinia course
+
+Project built while following VueJS &amp; Pinia course)
