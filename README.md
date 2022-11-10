@@ -33,4 +33,4 @@ IN PROGRESS
   
 
    [Frontend Skills Pinia Course]: <https://www.youtube.com/watch?v=ok9PE-XwXro&list=PL2hgv2vHkQ7DE77DNxPPEqzdk89PA4gkX>
-   [Pineapple Movies]: <https://github.com/AlenaGM/pineapple-movies)>
+   [Pineapple Movies]: <https://alenagm.github.io/pineapple-movies/>
