@@ -14,7 +14,7 @@ IN PROGRESS
 [Pineapple Movies]
 
 
-## Result
+## 	Intermediate Result
 
 <img width="35%" alt="screen capture" src="../main/src/assets/captureweb.jpeg">
 
