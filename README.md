@@ -3,6 +3,9 @@
 _Single Page Application built with VueJS and Pinia that serves to organize film lists._
 IN PROGRESS
 
+<br>
+<img width="45%" alt="screen capture" src="../master/assets/img/captureweb.jpeg">
+
 ## Demo
 
 [Pineapple Movies]
