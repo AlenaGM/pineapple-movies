@@ -1,20 +1,22 @@
 # Pineapple Movies 🍍🍍
 
-_Single Page Application built with VueJS and Pinia that serves to organize film lists._
+_Single Page Application built with VueJS and Pinia that serves to organize film lists._ <br>
 IN PROGRESS
 
-<br>
-<img width="45%" alt="screen capture" src="../master/assets/img/captureweb.jpeg">
+## Features
+- Film-search via API-request;
+- Film information stored in the collection of favourite films with possibility to add/delete films;
+- Separate list for movies that have already been watched;.
+
 
 ## Demo
 
 [Pineapple Movies]
 
 
-## Features
-- Film-search via API-request;
-- Film information stored in the collection of favourite films with possibility to add/delete films;
-- Separate list for movies that have already been watched;.
+## Result
+
+<img width="35%" alt="screen capture" src="../main/src/assets/captureweb.jpeg">
 
 
 ## Tech stack
