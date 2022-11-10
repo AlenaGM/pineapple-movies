@@ -1,6 +1,6 @@
 # Pineapple Movies 🍍🍍
 
-_Pinapple Movies is a single Page Application built with VueJS that serves to organize film lists._
+_Single Page Application built with VueJS and Pinia that serves to organize film lists._
 
 ## Demo
 
