@@ -24,9 +24,8 @@ IN PROGRESS
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; Vue.js<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; Pinia<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; Getters<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; Actions<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; Synchronous and asynchronous actions<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; Composition API<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; Asynchronous operations <br>
 
   <br><br>
   \* _Project  built while following [Frontend Skills Pinia Course]_ 
