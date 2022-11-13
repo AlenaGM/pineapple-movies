@@ -14,7 +14,7 @@ IN PROGRESS
 [Pineapple Movies]
 
 
-## Result
+## 	Intermediate Result
 
 <img width="35%" alt="screen capture" src="../main/src/assets/captureweb.jpeg">
 
@@ -24,13 +24,12 @@ IN PROGRESS
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; Vue.js<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; Pinia<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; Getters<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; Actions<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; Synchronous and asynchronous actions<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; Composition API<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; Asynchronous operations <br>
 
   <br><br>
   \* _Project  built while following [Frontend Skills Pinia Course]_ 
   
 
    [Frontend Skills Pinia Course]: <https://www.youtube.com/watch?v=ok9PE-XwXro&list=PL2hgv2vHkQ7DE77DNxPPEqzdk89PA4gkX>
-   [Pineapple Movies]: <https://github.com/AlenaGM/pineapple-movies)>
+   [Pineapple Movies]: <https://alenagm.github.io/pineapple-movies/>
