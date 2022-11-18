@@ -5,16 +5,15 @@ IN PROGRESS
 
 ## Features
 - Film-search via API-request;
-- Film information stored in the collection of favourite films with possibility to add/delete films;
+- Favourite films collection with possibility to add/delete films;
 - Separate list for movies that have already been watched;.
-
-
+- 
 ## Demo
 
 [Pineapple Movies]
 
 
-## 	Intermediate Result
+## 	Result
 
 <img width="35%" alt="screen capture" src="../main/src/assets/captureweb.jpeg">
 
