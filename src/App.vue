@@ -35,7 +35,7 @@
       />
     </div>
     <div class="search" v-else>
-      <Search/>
+      <Search />
     </div>
   </main>
 </template>
