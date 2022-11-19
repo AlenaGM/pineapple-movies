@@ -16,7 +16,7 @@
           @click="movieStore.toggleWatched(movie.id)"
         >
           <span v-if="!movie.isWatched">Watched</span>
-          <span v-else>Unwatched</span>
+          <span v-else>Unwatch</span>
         </button>
         <button
           class="btn movie-buttons-delete"
@@ -30,7 +30,7 @@
           class="btn btn_green"
           @click="searchStore.addToUserMovies(movie)"
         >
-          Add
+          Add to favourite
         </button>
       </div>
     </div>

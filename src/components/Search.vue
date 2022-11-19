@@ -3,7 +3,7 @@
     <input
       type="text"
       class="search-input"
-      placeholder="Input movie"
+      placeholder="Movie title"
       v-model="searchMovie"
     />
   </form>
@@ -31,6 +31,8 @@ const searchMovie = ref("");
 .search-input {
   border: 1px solid #e7e7e7;
   width: 100%;
+  max-width: 600px;
+  box-sizing: border-box;
   height: 40px;
   padding: 0 10px;
   margin-bottom: 20px;

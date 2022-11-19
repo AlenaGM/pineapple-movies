@@ -2,14 +2,14 @@
   <main>
     <header class="header">
       <img src="/logo.svg" alt="logo" class="header-logo" />
-      <h2>My Favorite Movies</h2>
+      <h2>My Favourite Movies</h2>
     </header>
     <div class="tabs">
       <button
         :class="['btn', { btn_green: movieStore.activeTab === 1 }]"
         @click="setTab(1)"
       >
-        Favorite
+        Favourite
       </button>
       <button
         :class="['btn', { btn_green: movieStore.activeTab === 2 }]"
@@ -64,7 +64,8 @@ const movieStore = useMovieStore();
 }
 .btn {
   border: none;
-  width: 100px;
+  padding: 0 24px;
+  min-width: 112px;
   height: 40px;
   font-size: 14px;
   margin: 0 10px;
