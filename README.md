@@ -1,12 +1,12 @@
 # Pineapple Movies 🍍🍍
 
 _Single Page Application built with VueJS and Pinia that serves to organize film lists._ <br>
-IN PROGRESS
 
 ## Features
 - Film-search via API-request;
-- Favourite films collection with possibility to add/delete films;
+- Favourite films collection with possibility to add/delete movies;
 - Separate list for movies that have already been watched;
+- Information on favourite and watched movies is stored in LocalStorage;
 
 ## Tech stack
 
@@ -15,6 +15,7 @@ IN PROGRESS
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; Getters<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; Synchronous and asynchronous actions<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; Composition API<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; LocalStorage<br>
 
 ## Demo
 
@@ -27,7 +28,7 @@ IN PROGRESS
 
 
   <br><br>
-  \* _Project  built while following [Frontend Skills Pinia Course]_ 
+  \* _Project  built when following [Frontend Skills Pinia Course]_ 
   
 
    [Frontend Skills Pinia Course]: <https://www.youtube.com/watch?v=ok9PE-XwXro&list=PL2hgv2vHkQ7DE77DNxPPEqzdk89PA4gkX>
