@@ -4,7 +4,7 @@ _Single Page Application built with VueJS and Pinia that serves to organize film
 
 ## Features
 - Film-search via API-request;
-- Favourite films collection with possibility to add/delete movies;
+- Personal favourite films collection with possibility to add/delete movies;
 - Separate list for movies that have already been watched;
 - Information on favourite and watched movies is stored in LocalStorage;
 
@@ -28,8 +28,8 @@ _Single Page Application built with VueJS and Pinia that serves to organize film
 
 
   <br><br>
-  \* _Project  built when following [Frontend Skills Pinia Course]_ 
+  \* _Project  built when following [Frontend Skills' Pinia Course]_ 
   
 
-   [Frontend Skills Pinia Course]: <https://www.youtube.com/watch?v=ok9PE-XwXro&list=PL2hgv2vHkQ7DE77DNxPPEqzdk89PA4gkX>
+   [Frontend Skills' Pinia Course]: <https://www.youtube.com/watch?v=ok9PE-XwXro&list=PL2hgv2vHkQ7DE77DNxPPEqzdk89PA4gkX>
    [Pineapple Movies]: <https://alenagm.github.io/pineapple-movies/>
