@@ -37,5 +37,6 @@ const searchMovie = ref("");
   padding: 0 10px;
   margin-bottom: 20px;
   border-radius: 10px;
+  box-shadow: 0px 1px 2px 0px #0000001f;
 }
 </style>

@@ -65,6 +65,8 @@ const props = defineProps({
   column-gap: 30px;
   margin-bottom: 20px;
   border: 2px solid #efefef;
+  background: #f9f9f9af;
+  box-shadow: 0px 1px 2px 0px #0000001f;
   padding: 10px;
   border-radius: 10px;
   @media screen and (max-width: 550px) {
@@ -108,7 +110,7 @@ const props = defineProps({
     justify-content: center;
     &-watched {
       color: #fff;
-      background: #1eb4c3;
+      background: #497cb8;
       &__icon {
         width: 15px;
         margin-left: 10px;
@@ -116,7 +118,7 @@ const props = defineProps({
     }
     &-delete {
       color: #fff;
-      background: #ff2a2a;
+      background: #b84960;
     }
   }
 }

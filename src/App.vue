@@ -59,16 +59,23 @@ const movieStore = useMovieStore();
   justify-content: center;
   align-items: center;
   padding: 20px;
+
+  h2 {
+    color: #2d4452;
+  }
+
+  &-logo {
+    max-width: 50px;
+    margin-right: 10px;
+  }
 }
-.header-logo {
-  max-width: 50px;
-  margin-right: 10px;
-}
+
 .movies {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
+
 .btn {
   border: none;
   padding: 0 24px;
@@ -77,15 +84,20 @@ const movieStore = useMovieStore();
   font-size: 14px;
   margin: 0 10px;
   border-radius: 10px;
-  cursor: pointer;
+  box-shadow: 0 2px 0 #23262f3b;
   background: #efefef;
+  color: #2d4452;
+  top: 0;
+  cursor: pointer;
+  &:hover {
+    opacity: 0.7;
+  }
+  &_green {
+    background: #4ab8a1;
+    color: #fff;
+  }
 }
-.btn:hover {
-  opacity: 0.7;
-}
-.btn_green {
-  background: #37df5c;
-}
+
 .tabs {
   display: flex;
   justify-content: center;
