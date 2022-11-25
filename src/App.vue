@@ -27,12 +27,14 @@
           :movie="movie"
         />
       </div>
-      <h3>All Movies (count: {{ movieStore.totalCountMovies }})</h3>
-      <Movie
-        v-for="movie of movieStore.movies"
-        :key="movie.id"
-        :movie="movie"
-      />
+      <div>
+        <h3>All Movies (count: {{ movieStore.totalCountMovies }})</h3>
+        <Movie
+          v-for="movie of movieStore.movies"
+          :key="movie.id"
+          :movie="movie"
+        />
+      </div>
     </div>
     <div class="search" v-else>
       <Search />
@@ -51,7 +53,7 @@ const setTab = (id) => {
 const movieStore = useMovieStore();
 </script>
 
-<style lang="css">
+<style lang="scss">
 .header {
   display: flex;
   justify-content: center;
@@ -61,6 +63,11 @@ const movieStore = useMovieStore();
 .header-logo {
   max-width: 50px;
   margin-right: 10px;
+}
+.movies {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 .btn {
   border: none;

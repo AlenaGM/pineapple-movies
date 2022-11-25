@@ -6,7 +6,7 @@
   </div>
 </template>
 
-<style scoped>
+<style lang="scss" scoped>
 .lds-facebook {
   display: block;
   margin: auto;

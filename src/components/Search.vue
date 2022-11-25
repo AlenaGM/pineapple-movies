@@ -27,7 +27,7 @@ const searchStore = useSearchStore();
 const searchMovie = ref("");
 </script>
 
-<style scoped>
+<style lang="scss" scoped>
 .search-input {
   border: 1px solid #e7e7e7;
   width: 100%;
