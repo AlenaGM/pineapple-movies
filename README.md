@@ -1,6 +1,6 @@
 # Pineapple Movies 🍍🍍
 
-_Single Page Application built with VueJS and Pinia that serves to organize film lists._ <br>
+_Single Page Application built with VueJS 3 and Pinia that serves to organize film lists._ <br>
 
 ## Features
 - Film-search via API-request;
