@@ -64,10 +64,10 @@ const props = defineProps({
   grid-template-columns: 200px 1fr;
   column-gap: 30px;
   margin-bottom: 20px;
-  border: 2px solid #efefef;
   background: #f9f9f9af;
-  box-shadow: 0px 1px 2px 0px #0000001f;
   padding: 10px;
+  box-shadow: 0px 1px 2px 0px #0000001f;
+  border: 2px solid #efefef;
   border-radius: 10px;
   @media screen and (max-width: 550px) {
     grid-template-columns: 1fr;
